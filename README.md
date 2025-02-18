@@ -15,5 +15,5 @@ The purpose of clustering the users is to identify who the superusers are. This 
  - Note: We can further create more user categories - but for now, let's just bucket all of them as existing users.
 
 # Dataset
-The public database used is "Telco Customer Churn" in https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+The public database used is "Telco Customer Churn" in https://www.kaggle.com/datasets/blastchar/telco-customer-churn.
 Python was used to analyze it.
