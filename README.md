@@ -2,7 +2,7 @@
 {Data analysis} User clustering to identify superusers/supercustomers
 
 # Background
-In order to fully grasp the impact of this process, I recommend first reading Chamath Palihapitiya on the growth principles that got Facebook to billions of users.
+In order to fully grasp the impact of this process, I recommend first reading [Chamath Palihapitiya on the growth principles that got Facebook to billions of users](https://www.startuparchive.org/p/chamath-palihapitiya-on-the-growth-principles-that-got-facebook-to-billions-of-users).
 Chamath was the senior executive at Facebook that was responsible for turning the company around when the core user base was declining in 2007.
 
 The purpose of clustering the users is to identify who the superusers are. This will allow a PM to understand the commonalities in their user-journey. By doing so, PMs can formulate strategies to turn new and existing users into superusers.
@@ -15,7 +15,7 @@ The purpose of clustering the users is to identify who the superusers are. This 
  - Note: We can further create more user categories - but for now, let's just bucket all of them as existing users.
 
 # Dataset
-The public database used is "Telco Customer Churn" in https://www.kaggle.com/datasets/blastchar/telco-customer-churn.
+The public database used is [Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn). from Kaggle
 Each row represents a customer, each column contains customer’s attributes described on the column Metadata. The raw data contains 7043 rows (customers) and 21 columns (features).
 
 # Requirements
