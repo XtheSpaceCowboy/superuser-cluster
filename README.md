@@ -18,7 +18,7 @@ The purpose of clustering the users is to identify who the superusers are. This 
 The public database used is "Telco Customer Churn" in https://www.kaggle.com/datasets/blastchar/telco-customer-churn.
 Each row represents a customer, each column contains customer’s attributes described on the column Metadata. The raw data contains 7043 rows (customers) and 21 columns (features).
 
-# Requirenebts
+# Requirements
 - python3
 - kagglehub
 - numpy
