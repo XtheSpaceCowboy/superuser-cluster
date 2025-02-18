@@ -14,6 +14,6 @@ The purpose of clustering the users is to identify who the superusers are. This 
  - Existing users: All other users. It's important to note that a PM should further categorize existing users to better focus their product strategies.
  - Note: We can further create more user categories - but for now, let's just bucket all of them as existing users.
 
-#Dataset
+# Dataset
 The public database used is "Telco Customer Churn" in https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 Python was used to analyze it.
