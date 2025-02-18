@@ -1,4 +1,4 @@
-# superuser-cluster
+# SuperUser-Cluster
 {Data analysis} User clustering to identify superusers/supercustomers
 
 # Background
@@ -13,3 +13,7 @@ The purpose of clustering the users is to identify who the superusers are. This 
  - Churned user: A user that completely stopped using a product.
  - Existing users: All other users. It's important to note that a PM should further categorize existing users to better focus their product strategies.
  - Note: We can further create more user categories - but for now, let's just bucket all of them as existing users.
+
+#Dataset
+The public database used is "Telco Customer Churn" in https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+Python was used to analyze it.
