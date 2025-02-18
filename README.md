@@ -20,6 +20,7 @@ Each row represents a customer, each column contains customer’s attributes des
 
 # Requirenebts
 - python3
+- kagglehub
 - numpy
 - pandas
 - os
