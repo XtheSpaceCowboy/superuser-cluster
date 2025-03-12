@@ -28,5 +28,3 @@ Each row represents a customer, each column contains customer’s attributes des
 
 # Final Script
 [cluster.py](https://github.com/XtheSpaceCowboy/superuser-cluster/blob/main/cluster.py)
-
-# Findings
